@@ -1,0 +1,24 @@
+Consumer Number : 24110356
+Consumer Name : PANDI KABILESH P
+Previou Month Reading : 230
+Current Month Reading : 600
+Electricity Bill Type : COMMERCIAL
+Units Consumed : 370
+Electricity Bill Amount : 1670.00
+-------------------------------------------------------------
+Consumer Number : 24110365
+Consumer Name : RISHIE HRITHICK
+Previou Month Reading : 330
+Current Month Reading : 670
+Electricity Bill Type : DOMESTIC
+Units Consumed : 340
+Electricity Bill Amount : 910.00
+-------------------------------------------------------------
+Consumer Number : 24110386
+Consumer Name : JEEVA SIDHARTH
+Previou Month Reading : 450
+Current Month Reading : 800
+Electricity Bill Type : COMMERCIAL
+Units Consumed : 350
+Electricity Bill Amount : 1550.00
+-------------------------------------------------------------
