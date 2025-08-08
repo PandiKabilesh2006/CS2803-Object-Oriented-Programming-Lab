@@ -1,0 +1,151 @@
+
+
+Designation: Programmer
+Employee ID: Hemanth Kumar
+Employee Name: P101
+Address :Chennai
+Mail ID: hemanthkumar2006@gmail.com
+Mobile Number: 9876543210
+Basic Pay: 40000.00
+DA: 38800.00
+HRA: 4000.00
+PF: 4800.00
+Staff Club: 40.00
+Gross Salary: 82800.00
+Net Salary: 77960.00
+--------------------------------------------------
+
+Designation: AssistantProfessor
+Employee ID: Rishie Hrithick
+Employee Name: A201
+Address :Thanjavur
+Mail ID: rishiehrithick2007@gmail.com
+Mobile Number: 9876500000
+Basic Pay: 50000.00
+DA: 48500.00
+HRA: 5000.00
+PF: 6000.00
+Staff Club: 50.00
+Gross Salary: 103500.00
+Net Salary: 97450.00
+--------------------------------------------------
+
+Designation: AssistantProfessor
+Employee ID: Shravan
+Employee Name: AP301
+Address :Coimbatore
+Mail ID: shravan2007@gmail.com
+Mobile Number: 9876511111
+Basic Pay: 60000.00
+DA: 58200.00
+HRA: 6000.00
+PF: 7200.00
+Staff Club: 60.00
+Gross Salary: 124200.00
+Net Salary: 116940.00
+--------------------------------------------------
+
+Designation: Professor
+Employee ID: Pandi Kabilesh
+Employee Name: PRO401
+Address :Madurai
+Mail ID: pandikabilesh2006@gmail.com
+Mobile Number: 9876522222
+Basic Pay: 70000.00
+DA: 67900.00
+HRA: 7000.00
+PF: 8400.00
+Staff Club: 70.00
+Gross Salary: 144900.00
+Net Salary: 136430.00
+--------------------------------------------------
+
+Designation: AssistantProfessor
+Employee ID: 24110356
+Employee Name: PANDI KABILESH P
+Address :Madurai
+Mail ID: pandikabilesh2006@gmail.com
+Mobile Number: 63742143080
+Basic Pay: 100000.00
+DA: 97000.00
+HRA: 10000.00
+PF: 12000.00
+Staff Club: 100.00
+Gross Salary: 207000.00
+Net Salary: 194900.00
+--------------------------------------------------
+
+Designation: Programmer
+Employee ID: 24110348
+Employee Name: Hemanth Kumar
+Address :Chennai
+Mail ID: hemanthkumar2005@gmail.com
+Mobile Number: 9942463410
+Basic Pay: 50000.00
+DA: 48500.00
+HRA: 5000.00
+PF: 6000.00
+Staff Club: 50.00
+Gross Salary: 103500.00
+Net Salary: 97450.00
+--------------------------------------------------
+
+Designation: AssistantProfessor
+Employee ID: 24110348
+Employee Name: Hemanth Kumar
+Address :Chennai
+Mail ID: hemanthkumar2005@gmail.com
+Mobile Number: 9942463410
+Basic Pay: 50000.00
+DA: 48500.00
+HRA: 5000.00
+PF: 6000.00
+Staff Club: 50.00
+Gross Salary: 103500.00
+Net Salary: 97450.00
+--------------------------------------------------
+
+Designation: AssistantProfessor
+Employee ID: 24110348
+Employee Name: Hemanth Kumar
+Address :Chennai
+Mail ID: hemanthkumar2005@gmail.com
+Mobile Number: 9942463410
+Basic Pay: 50000.00
+DA: 48500.00
+HRA: 5000.00
+PF: 6000.00
+Staff Club: 50.00
+Gross Salary: 103500.00
+Net Salary: 97450.00
+--------------------------------------------------
+
+Designation: AssistantProfessor
+Employee ID: 24110348
+Employee Name: Hemanth Kumar
+Address :Chennai
+Mail ID: hemanthkumar2005@gmail.com
+Mobile Number: 9942463410
+Basic Pay: 50000.00
+DA: 48500.00
+HRA: 5000.00
+PF: 6000.00
+Staff Club: 50.00
+Gross Salary: 103500.00
+Net Salary: 97450.00
+--------------------------------------------------
+
+Designation: AssistantProfessor
+Employee ID: 24110378
+Employee Name: SHRAVAN
+Address :CHENNAI
+Mail ID: shravan2007@gmail.com
+Mobile Number: 67981234570
+Basic Pay: 80000.00
+DA: 77600.00
+HRA: 8000.00
+PF: 9600.00
+Staff Club: 80.00
+Gross Salary: 165600.00
+Net Salary: 155920.00
+--------------------------------------------------
