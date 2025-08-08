@@ -1,0 +1,60 @@
+
+Designation: Programmer
+Employee ID: Karthik
+Employee Name: P101
+Address :Chennai
+Mail ID: karthik@mail.com
+Mobile Number: 9876543210
+Basic Pay: 40000.00
+DA: 38800.00
+HRA: 4000.00
+PF: 4800.00
+Staff Club: 40.00
+Gross Salary: 82800.00
+Net Salary: 77960.00
+--------------------------------------------------
+
+Designation: AssistantProfessor
+Employee ID: Priya
+Employee Name: A201
+Address :Madurai
+Mail ID: priya@mail.com
+Mobile Number: 9876500000
+Basic Pay: 50000.00
+DA: 48500.00
+HRA: 5000.00
+PF: 6000.00
+Staff Club: 50.00
+Gross Salary: 103500.00
+Net Salary: 97450.00
+--------------------------------------------------
+
+Designation: AssistantProfessor
+Employee ID: Ram
+Employee Name: AP301
+Address :Coimbatore
+Mail ID: ram@mail.com
+Mobile Number: 9876511111
+Basic Pay: 60000.00
+DA: 58200.00
+HRA: 6000.00
+PF: 7200.00
+Staff Club: 60.00
+Gross Salary: 124200.00
+Net Salary: 116940.00
+--------------------------------------------------
+
+Designation: Professor
+Employee ID: Sita
+Employee Name: PRO401
+Address :Trichy
+Mail ID: sita@mail.com
+Mobile Number: 9876522222
+Basic Pay: 70000.00
+DA: 67900.00
+HRA: 7000.00
+PF: 8400.00
+Staff Club: 70.00
+Gross Salary: 144900.00
+Net Salary: 136430.00
+--------------------------------------------------
