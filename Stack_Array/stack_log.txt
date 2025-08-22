@@ -1,0 +1,48 @@
+Enter initial stack size: 2
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+Choice: 1
+Enter value to push: pandi
+pandi pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+Choice: 1
+Enter value to push: kabilesh
+kabilesh pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+Choice: 1
+Enter value to push: harshini
+harshini pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+Choice: 3
+Stack elements (top to bottom): [ harshini, kabilesh, pandi ]
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+Choice: 2
+harshini popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+Choice: 2
+kabilesh popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+Choice: 2
+pandi popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+Choice: 2
+Exception: Cannot pop from empty stack.
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+Choice: 
